@@ -1,0 +1,9 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.App {    
+  text-align: center;    
+}    
+
+.btn {
+  min-width: 120px;;
+}
