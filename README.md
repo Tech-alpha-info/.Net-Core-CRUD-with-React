@@ -17,8 +17,10 @@ To Start the Client and Connect:
 At command prompt, run npm install, then npm start. 
 
 # Components used
-.NET Core 3.1, React, Redux, Thunk, Axios.
+.NET Core 3.1, React, Redux for single store, Thunk for the middleware, Axios for HTTP comms to actually get hold of the data.
 
-Ag-Grid is a very decent data grid component, check it out here:
+https://github.com/reduxjs/redux-thunk
 
-https://www.ag-grid.com/javascript-grid-getting-started/
+https://github.com/axios/axios
+
+
